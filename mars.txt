@@ -4,3 +4,4 @@ cold and dry, but everything is my favorite color
 hello
   PID TTY           TIME CMD
   406 ttys001    0:00.41 -bash
+6th line is not so nice
